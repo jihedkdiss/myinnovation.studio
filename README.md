@@ -88,16 +88,16 @@ We are commited to protecting the privacy of our users and clients, hence the pl
 - [x] Host **[a static demo](https://myinnovationstudio.netlify.app)** on netlify
 - [x] Make GitHub repository
 - [x] Write README.md
-- [x] Design static website
-- [x] Link static website with login form and dashboard
+- [x] Design and develop front end
+- [x] Integrate dashboard `/app/dashboard`
 - [x] Implement the backend 
-    - [x] Implement user registration and login
-    - [ ] Implement dashboard features
-- [ ] Host on InfinityFree
-- [ ] Run security audit
-- [ ] Fix bugs and vulnerabilities
+    - [x] Implement user registration and login mechanism `/app`
+    - [ ] Integrate login with dashboard (Hosting error ❌)
+- [ ] Host on InfinityFree (Hosting error ❌)
+- [ ] Run security audit (⭕ no need - website is static)
+- [ ] Fix bugs and vulnerabilities (⭕ no need - website is static)
 - [x] Search Engine Optimization
-- [ ] Deploy as PWA
+- [x] Deploy as PWA - Up and running ✅
 
 See the [open issues](https://github.com/jihedkdiss/myinnovation.studio/issues) for a full list of proposed features (and known issues).
 
