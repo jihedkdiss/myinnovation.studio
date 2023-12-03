@@ -85,13 +85,13 @@ We are commited to protecting the privacy of our users and clients, hence the pl
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
-- [x] Acquire domain name (17:55)
-- [x] Generate SSL certificate (18:31)
-- [x] Host [a static demo](https://myinnovationstudio.netlify.app) on netlify (19:01)
-- [x] Make GitHub repository ()
-- [x] Write README.md
-- [ ] Design home page
-- [ ] Link home page, login form and dashboard
+- [x] Acquire domain name (🕒 17:55)
+- [x] Generate SSL certificate (🕒 18:31)
+- [x] Host [a static demo](https://myinnovationstudio.netlify.app) on netlify (🕒 19:01)
+- [x] Make GitHub repository (🕒 21:12)
+- [x] Write README.md (🕒 21:44)
+- [x] Design static website (🕒 03:59)
+- [x] Link static website with login form and dashboard (🕒 05:24)
 - [ ] Implement the backend
     - [ ] Implement user registration and login
     - [ ] Implement dashboard features
