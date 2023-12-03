@@ -85,7 +85,7 @@ We are commited to protecting the privacy of our users and clients, hence the pl
 ## Roadmap
 - [x] Acquire domain name
 - [x] Generate SSL certificate
-- [x] Host [a static demo](https://myinnovationstudio.netlify.app) on netlify
+- [x] Host **[a static demo](https://myinnovationstudio.netlify.app)** on netlify
 - [x] Make GitHub repository
 - [x] Write README.md
 - [x] Design static website
