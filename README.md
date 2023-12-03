@@ -5,7 +5,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
 <div align="center">
@@ -69,7 +68,6 @@ We are commited to protecting the privacy of our users and clients, hence the pl
 **My Innovation Studio** is built using several hand-picked tools and libraries, in order to provide optimal performance and maximum security, including but not limited to:
 
 * Mobirise 5.9.8 open source website builder for the home page.
-* Mini Finance open source template for the dashboard.
 * PHP & MySQL for the backend.
 * InfinityFree hosting.
 * Name.com domain name.
@@ -79,26 +77,27 @@ We are commited to protecting the privacy of our users and clients, hence the pl
 ## Usage
 
 **The Innovation Studio** is currently under development which means many of the features may not be implemented or fully accessible. Given that, you can check our progress using the following login credentials:
-* Username: `user`
+* Username: `student`
 * Password: `tunihack2023`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
-- [x] Acquire domain name (🕒 17:55)
-- [x] Generate SSL certificate (🕒 18:31)
-- [x] Host [a static demo](https://myinnovationstudio.netlify.app) on netlify (🕒 19:01)
-- [x] Make GitHub repository (🕒 21:12)
-- [x] Write README.md (🕒 21:44)
-- [x] Design static website (🕒 03:59)
-- [x] Link static website with login form and dashboard (🕒 05:24)
-- [ ] Implement the backend
-    - [ ] Implement user registration and login
+- [x] Acquire domain name
+- [x] Generate SSL certificate
+- [x] Host [a static demo](https://myinnovationstudio.netlify.app) on netlify
+- [x] Make GitHub repository
+- [x] Write README.md
+- [x] Design static website
+- [x] Link static website with login form and dashboard
+- [x] Implement the backend 
+    - [x] Implement user registration and login
     - [ ] Implement dashboard features
 - [ ] Host on InfinityFree
 - [ ] Run security audit
 - [ ] Fix bugs and vulnerabilities
-- [ ] Search Engine Optimization
+- [x] Search Engine Optimization
+- [ ] Deploy as PWA
 
 See the [open issues](https://github.com/jihedkdiss/myinnovation.studio/issues) for a full list of proposed features (and known issues).
 
@@ -124,15 +123,14 @@ Distributed under the GPL-3.0 license. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
-Jihed Kdiss - [@jiokdiss](https://facebook.com/jiokdiss) - jihedkdiss@outlook.com
-
-Project Link: [https://github.com/jihedkdiss/myinnovation.studio](https://github.com/jihedkdiss/myinnovation.studi)
+## Authors
+* **[Jihed Kdiss](https://facebook.com/jiokdiss)** - jihedkdiss@outlook.com
+* **[Aisha Badrouchi](https://www.facebook.com/aicha.badrouchi.04)** - aichabadrouchi@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
-We would like to thank OSSEC for the great organization of TuniHack V9.0 and the giving us the opportunity to meet such wonderful people and learn many things. 
+We would like to thank **OSSEC** for the great organization of **TuniHack V9.0** and for giving us the opportunity to meet such wonderful people and learn many new things. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,5 +145,4 @@ We would like to thank OSSEC for the great organization of TuniHack V9.0 and the
 [license-shield]: https://img.shields.io/github/license/jihedkdiss/myinnovation.studio?style=for-the-badge
 [license-url]: https://github.com/jihedkdiss/myinnovation.studio/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jihedkdiss
 [product-screenshot]: images/Banner.png
